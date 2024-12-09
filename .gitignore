@@ -1,0 +1,26 @@
+# Unity generated files
+Library/
+Logs/
+Temp/
+Obj/
+UserSettings/
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity Package Manager
+Packages/manifest.json
+
+# 기타 설정 파일
+*.dwlt
+*.index
+*.settings

@@ -1,0 +1,11 @@
+# 모든 텍스트 파일에 대해 자동 줄 끝 변환
+* text=auto
+
+# 특정 파일 형식에 대해 바이너리로 처리
+*.asset binary
+
+# .meta 파일을 바이너리로 처리하여 줄 끝 변환 방지
+*.meta binary
+
+# JSON 파일을 텍스트로 처리
+*.json text
